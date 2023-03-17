@@ -1,0 +1,37 @@
+.feature-card1-feature-card {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+.feature-card1-image {
+  width: var(--dl-size-size-small);
+  object-fit: cover;
+}
+.feature-card1-text {
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.feature-card1-text1 {
+  color: var(--dl-color-gray-700);
+  text-align: center;
+}
+
+
+
+
+@media(max-width: 479px) {
+  .feature-card1-image {
+    width: 32px;
+  }
+  .feature-card1-text {
+    font-size: 16px;
+  }
+  .feature-card1-text1 {
+    font-size: 14px;
+  }
+}

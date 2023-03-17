@@ -1,0 +1,44 @@
+.feature-card12-feature-card {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: center;
+  margin-left: var(--dl-space-space-twounits);
+  margin-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.feature-card12-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  transition: 0.3s;
+}
+.feature-card12-image:hover {
+  cursor: pointer;
+  transform: scale(1.3);
+}
+
+
+
+
+@media(max-width: 479px) {
+  .feature-card12-image {
+    width: 80px;
+    height: 80px;
+  }
+  .feature-card12-root-class-name1 {
+    width: 80%;
+    margin-left: var(--dl-space-space-halfunit);
+    margin-right: var(--dl-space-space-halfunit);
+  }
+  .feature-card12-root-class-name2 {
+    width: 80%;
+    margin-left: var(--dl-space-space-halfunit);
+    margin-right: var(--dl-space-space-halfunit);
+  }
+  .feature-card12-root-class-name3 {
+    width: 80%;
+    margin-left: var(--dl-space-space-halfunit);
+    margin-right: var(--dl-space-space-halfunit);
+  }
+}

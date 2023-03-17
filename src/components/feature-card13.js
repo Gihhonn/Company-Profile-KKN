@@ -19,7 +19,7 @@ const FeatureCard13 = (props) => {
 FeatureCard13.defaultProps = {
   rootClassName: '',
   image_alt: 'image',
-  image_src: '/playground_assets/pngwing.com%20%5B2%5D-500w.png',
+  image_src: '/playground_assets/pngwing.com%20%5B2%5D-600w.png',
 }
 
 FeatureCard13.propTypes = {

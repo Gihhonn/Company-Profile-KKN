@@ -276,6 +276,12 @@
   flex-direction: column;
   justify-content: center;
 }
+.landing-navlink1 {
+  display: contents;
+}
+.landing-component06 {
+  text-decoration: none;
+}
 .landing-container07 {
   flex: 1;
   height: 100%;

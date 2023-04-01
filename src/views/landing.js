@@ -148,11 +148,14 @@ const Landing = (props) => {
           <div className="landing-container04">
             <div className="landing-container05">
               <div className="landing-container06">
-                <GalleryCard2
-                  title="Buncis"
-                  image_src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
-                  rootClassName="rootClassName2"
-                ></GalleryCard2>
+                <Link to="/buncis" className="landing-navlink1">
+                  <GalleryCard2
+                    title="Buncis"
+                    image_src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+                    rootClassName="rootClassName2"
+                    className="landing-component06"
+                  ></GalleryCard2>
+                </Link>
               </div>
               <div className="landing-container07">
                 <GalleryCard2

@@ -14,25 +14,51 @@
   height: 100%;
   object-fit: cover;
 }
-.gallery-card12-container {
-  width: 100%;
-  height: var(--dl-size-size-small);
-  display: flex;
-  position: relative;
-  align-self: flex-start;
-  flex-direction: row;
-  justify-content: space-between;
-}
 .gallery-card12-text {
-  align-self: center;
+  align-self: flex-start;
   margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .gallery-card12-text1 {
-  color: var(--dl-color-gray-500);
-  align-self: center;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500;
 }
+.gallery-card12-button {
+  width: 100%;
+  font-size: 1.2rem;
+  font-style: normal;
+  margin-top: var(--dl-space-space-halfunit);
+  transition: 0.3s;
+  font-family: Montserrat;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.gallery-card12-button:hover {
+  cursor: pointer;
+}
+.gallery-card12-button1 {
+  color: #ffffff;
+  width: 100%;
+  font-size: 1.2rem;
+  font-style: normal;
+  transition: 0.3s;
+  font-family: Montserrat;
+  font-weight: 500;
+  padding-top: var(--dl-space-space-halfunit);
+  border-width: 0px;
+  background-color: #4caf50;
+}
+.gallery-card12-button1:hover {
+  cursor: pointer;
+}
+
+
+
+
 
 
 
@@ -45,5 +71,11 @@
 @media(max-width: 479px) {
   .gallery-card12-image {
     height: 10rem;
+  }
+  .gallery-card12-text {
+    font-size: 1.2rem;
+  }
+  .gallery-card12-text1 {
+    font-size: 0.8rem;
   }
 }

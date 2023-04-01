@@ -141,34 +141,34 @@ const AboutUs = (props) => {
         <h1 className="about-us-text24">Team Kami</h1>
         <div className="about-us-gallery1">
           <GalleryCard11
-            rootClassName="rootClassName"
-            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436189.jpg?w=826&amp;t=st=1678692362~exp=1678692962~hmac=b60cc402bf96aed71089e20947310be4cc95ec3afc96bdbb9379fc1e050bc594"
             title="Mr. LoremIpsum"
             subtitle="Ketua"
+            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436189.jpg?w=826&amp;t=st=1678692362~exp=1678692962~hmac=b60cc402bf96aed71089e20947310be4cc95ec3afc96bdbb9379fc1e050bc594"
+            rootClassName="rootClassName"
           ></GalleryCard11>
           <GalleryCard11
-            image_src="https://img.freepik.com/free-psd/3d-illustration-person-tank-top_23-2149436202.jpg?w=740&amp;t=st=1678691203~exp=1678691803~hmac=b0615b1952c8d82760348bf997c2ea5a76edcfbffffa4d349564c621b80a66e0"
-            rootClassName="rootClassName1"
             title="Mr. IpsumLorem"
             subtitle="Wakil Ketua"
+            image_src="https://img.freepik.com/free-psd/3d-illustration-person-tank-top_23-2149436202.jpg?w=740&amp;t=st=1678691203~exp=1678691803~hmac=b0615b1952c8d82760348bf997c2ea5a76edcfbffffa4d349564c621b80a66e0"
+            rootClassName="rootClassName1"
           ></GalleryCard11>
           <GalleryCard11
-            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436189.jpg?w=826&amp;t=st=1678692362~exp=1678692962~hmac=b60cc402bf96aed71089e20947310be4cc95ec3afc96bdbb9379fc1e050bc594"
-            rootClassName="rootClassName2"
             title="Mr. Sandhika"
             subtitle="Web Dev"
+            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436189.jpg?w=826&amp;t=st=1678692362~exp=1678692962~hmac=b60cc402bf96aed71089e20947310be4cc95ec3afc96bdbb9379fc1e050bc594"
+            rootClassName="rootClassName2"
           ></GalleryCard11>
           <GalleryCard11
-            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436185.jpg?w=740&amp;t=st=1678691222~exp=1678691822~hmac=c72218480e909d0bb7b8eede7127dcf3cb4250d68b0f7f9f3208b2c2c4ea91c7"
-            rootClassName="rootClassName3"
             title="Mrs. Lydia"
             subtitle="Sekretaris"
+            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436185.jpg?w=740&amp;t=st=1678691222~exp=1678691822~hmac=c72218480e909d0bb7b8eede7127dcf3cb4250d68b0f7f9f3208b2c2c4ea91c7"
+            rootClassName="rootClassName3"
           ></GalleryCard11>
           <GalleryCard11
-            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436185.jpg?w=740&amp;t=st=1678691222~exp=1678691822~hmac=c72218480e909d0bb7b8eede7127dcf3cb4250d68b0f7f9f3208b2c2c4ea91c7"
-            rootClassName="rootClassName4"
             title="Mrs. Rahma"
             subtitle="Bendahara"
+            image_src="https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436185.jpg?w=740&amp;t=st=1678691222~exp=1678691822~hmac=c72218480e909d0bb7b8eede7127dcf3cb4250d68b0f7f9f3208b2c2c4ea91c7"
+            rootClassName="rootClassName4"
           ></GalleryCard11>
         </div>
       </div>

@@ -71,192 +71,160 @@ const Timun = (props) => {
             <div className="timun-container5">
               <img
                 alt="image"
-                src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+                src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
                 className="timun-image2"
               />
               <h1 className="timun-text01">
-                <span>Buncis (</span>
-                <span className="timun-text03">Phaseolus vulgaris</span>
+                <span>Timun (</span>
+                <span className="timun-text03">Cucumis sativus</span>
                 <span>)</span>
               </h1>
               <span className="timun-text05">
-                <span className="timun-text06">Buncis</span>
+                <span className="timun-text06">Mentimun</span>
                 <span>
-                  {' '}
-                  (dari bahasa Belanda
+                  ,
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="timun-text08">boontjes</span>
+                <span className="timun-text08">timun</span>
                 <span>
-                  {' '}
-                  untuk kacang-kacangan secara umum), adalah sejenis
-                  polong-polongan yang dapat dimakan dari berbagai kultivar
+                  , atau
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="timun-text10">Phaseolus vulgaris</span>
-                <span>
-                  . Buah, biji, dan daunnya dimanfaatkan orang sebagai sayuran.
-                  Sayuran ini kaya dengan kandungan protein. Ia dipercaya
-                  berasal dari Amerika Tengah dan Amerika Selatan.
-                </span>
-                <br></br>
-                <br></br>
-                <span className="timun-text14">Buncis</span>
+                <span className="timun-text10">ketimun</span>
+                <span> (</span>
+                <span className="timun-text12">Cucumis sativus L.</span>
                 <span>
                   {' '}
-                  adalah sayur yang kaya dengan protein dan vitamin ini membantu
-                  menurunkan tekanan darah serta mengawal metabolisme gula dalam
-                  darah dan amat sesuai dimakan oleh mereka yang mengidap
-                  penyakit diabetes atau hipertensi. Kandungan serat dan enzim
-                  yang tinggi dapat membantu penurunan berat badan.
+                  suku labu-labuan atau
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <span className="timun-text14">Cucurbitaceae</span>
+                <span>
+                  ) merupakan tumbuhan yang menghasilkan buah yang dapat
+                  dimakan. Buahnya biasanya dipanen ketika belum masak benar
+                  untuk dijadikan sayuran atau penyegar, tergantung jenisnya.
+                  Mentimun dapat ditemukan di berbagai hidangan dari seluruh
+                  dunia dan memiliki kandungan air cukup banyak di dalamnya
+                  sehingga berfungsi menyejukkan. Potongan buah mentimun juga
+                  digunakan untuk membantu melembabkan wajah serta banyak
+                  dipercaya dapat menurunkan tekanan darah tinggi.
                 </span>
                 <br className="timun-text16"></br>
-                <br></br>
+                <br className="timun-text17"></br>
                 <span>
-                  Cara menanam tanaman buncis adalah tanam langsung dengan
-                  memasukan 2-3 biji kedalam lubang sedalam 1- 2 cm kemudian
-                  ditimbun tanah, panen biasanya sudah bisa dilakukan setelah 60
-                  hari atau polong kacang sudah cocok disayur. 
+                  Habitus mentimun berupa herba lemah melata atau setengah
+                  merambat dan merupakan tanaman semusim: setelah berbunga dan
+                  berbuah tanaman mati. Perbungaannya berumah satu (
                 </span>
+                <span className="timun-text19">monoecious</span>
                 <span>
-                  Kacang buncis tumbuh melilit, mempunyai akar tunggang dan sisi
-                  yang panjang dan memerlukan tiang untuk memanjat.
+                  ) dengan tipe bunga jantan dan bunga hermafrodit (berkelamin
+                  ganda). Bunga pertama yang dihasilkan, biasanya pada usia 4-5
+                  minggu, adalah bunga jantan. Bunga-bunga selanjutnya adalah
+                  bunga hermafrodit apabila pertumbuhannya baik. Satu tumbuhan
+                  dapat menghasilkan 20 buah, namun dalam budidaya biasanya
+                  jumlah buah dibatasi untuk menghasilkan ukuran buah yang baik.
                 </span>
-                <br></br>
-                <br></br>
+                <br className="timun-text21"></br>
+                <br className="timun-text22"></br>
                 <span>
-                  Kacang buncis atau green beans memiliki banyak jenis.
-                  Masing-masing punya karakter rasa dan tekstur yang berbeda
-                  saat dimasak. Terlepas dari namanya, buncis tidak selalu
-                  berwarna hijau. Ada pula buncis yang berwarna kuning kehijauan
-                  dan buncis berwarna unggu.
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </span>
-                <br></br>
-              </span>
-              <h1 className="timun-text24">Fakta Menarik Buncis</h1>
-              <span className="timun-text25">
-                <span className="timun-text26">Buncis</span>
-                <span>
-                  {' '}
-                  merupakan sayuran yang memiliki banyak penggemar karena
-                  harganya murah serta rasanya yang enak dan gurih. Sayuran ini
-                  masuk dalam kategori sayuran buah karena bagian yang
-                  dimanfaatkan adalah buahnya yang berbentuk polong. Faktanya,
-                  sayur ini bisa dikonsumsi secara mentah dan rasaya manis.
-                  Namun, banyak masyarakat lebih senang mengolah sayuran ini
-                  menjadi olahan masakan atau sekadar direbus untuk dijadikan
-                  lalapan. Berikut ini fakta menarik buncis.
+                  Buah berwarna hijau ketika muda dengan larik-larik putih
+                  kekuningan. Semakin buah masak warna luar buah berubah menjadi
+                  hijau pucat sampai putih. Bentuk buah memanjang seperti
+                  torpedo. Daging buahnya perkembangan dari bagian mesokarp,
+                  berwarna kuning pucat sampai jingga terang. Buah dipanen
+                  ketika masih setengah masak dan biji belum masak fisiologi.
+                  Buah yang masak biasanya mengering dan biji dipanen, warnanya
+                  hitam.
                 </span>
               </span>
-              <h3 className="timun-text28">Daerah asal</h3>
-              <span className="timun-text29">
-                Meskipun sayuran ini sangat mudah ditemukan di Indonesia dengan
-                harga yang murah. Ternyata, buncis merupakan tanaman asli Benua
-                Amerika. Sayuran ini memiliki beberapa nama internasional,
-                seperti french beans, butter beans, snap beans, dan string
-                beans. Saat ini, penyebarannya sudah meluas hingga ke seluruh
-                negara.
-              </span>
-              <h3 className="timun-text30">Jenis buncis di Indonesia</h3>
-              <span className="timun-text31">
-                Meskipun sering terlihat sama, ternyata buncis yang tersebar di
-                pasaran memiliki beberapa varietas berbeda. Beberapa varietas
-                yang paling sering ditemui adalah lokal Surakarta, lokal Bandung
-                atau babud, kopak, hawaian wonder, kasender, dan haskesburny
-                wonder.
-              </span>
-              <h3 className="timun-text32">Kandungan gizi</h3>
-              <span className="timun-text33">
-                <span>
-                  Buncis merupakan sumber vitamin A, C, dan B kompleks yang baik
-                  bagi tubuh. Selain itu, sayuran ini juga mengandung mineral
-                  seperti Fe, K, dan P serta mengandung banyak protein. Sayur
-                  ini juga mengandung banyak serat yang sangat berguna untuk
-                  mencegah kanker usus, tekanan darah tinggi, dan konstipasi
-                  (sembelit).
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Dengan serat tersebut, sistem pencernaan Anda menjadi lebih
-                  sehat. Dalam 100 gram buncis terdapat 35 kalori. Oleh karena
-                  itu, sayur ini sangat cocok dijadikan menu makanan bagi orang
-                  yang tengah diet.
-                </span>
-              </span>
-              <h3 className="timun-text38">Cara menyimpan</h3>
-              <span className="timun-text39">
-                Cara menyimpan sayuran yang benar dilakukan pada suhu rendah
-                atau pendingin di kulkas. Masukkan buncis ke plastik yang sudah
-                diberi lubang dan letakkan pada bagian crisper kulkas. Buncis
-                yang masih segar sebaiknya tidak disimpan dalam jangka waktu
-                yang lama, tidak lebih dari tiga hari. Hal tersebut dikarenakan
-                dapat menyebabkan timbulnya bercak warna hitam.
-              </span>
-              <h3 className="timun-text40">
-                Cara memasak tanpa menghilangkan gizinya
+              <h1 className="timun-text24">Fakta Menarik Timun</h1>
+              <h3 className="timun-text25">
+                Timun bisa menghilangkan bau mulut
               </h3>
-              <span className="timun-text41">
-                Semakin kecil potongan polong, akan semakin banyak kandungan
-                gizi yang dapat terbuang. Oleh karena itu, air bekas rebusan
-                sebaiknya tidak dibuang, Anda bisa menggunakannya sebagai bahan
-                sup, setup, atau campuran sayur. Agar warna polong tidak berubah
-                saat ditumis, berikan garam pada air rebusan agar warna sayuran
-                tetap terlihat bagus.
+              <span className="timun-text26">
+                Caranya mudah, kamu hanya tinggal mengiris tipis timun dan
+                meletakkannya pada langit-langit mulutmu. Timun bisa menyerap
+                bakteri yang ada di mulutmu sehingga bisa menghilangkan bau
+                tidak sedap.
+              </span>
+              <h3 className="timun-text27">Timun bisa memperkuat tulang</h3>
+              <span className="timun-text28">
+                Timun mengandung vitamin K yang sangat tinggi. Sehingga sangat
+                baik bagi tulang dan jaringan-jaringan pembentuknya. Kamu yang
+                ingin memiliki kesehatan tulang yang baik, maka timun adalah
+                pilihan tepat untukmu.
+              </span>
+              <h3 className="timun-text29">
+                Timun bisa digunakan untuk membersihkan cermin
+              </h3>
+              <span className="timun-text30">
+                Ternyata timun juga bisa digunakan untuk membersihkan cermin.
+                Caranya juga sangat mudah yaitu kamu tinggal mengiris tipis
+                timun dan mengusapkannya di cermin kamar mandi atau kamar.
+                Dijamin cerminmu akan jadi lebih bersih dan mengkilap.
+              </span>
+              <h3 className="timun-text31">
+                Timun bisa menghilangkan pengaruh alkohol
+              </h3>
+              <span className="timun-text32">
+                Timun ampuh untuk menghilangkan pengaruh alkohol. Saat kamu
+                sedang dalam pengaruh alkohol, coba konsumsi beberapa iris timun
+                sebelum tidur dan rasakan bagaimana khasiatnya setelah bangun
+                pagi.
               </span>
             </div>
           </div>
           <div className="timun-blog-post-card1">
             <div className="timun-container6">
-              <h1 className="timun-text42">Panen Lainya</h1>
+              <h1 className="timun-text33">Panen Lainya</h1>
               <FeatureCard
-                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
+                heading="Buncis"
+                image_src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+              ></FeatureCard>
+              <FeatureCard
                 heading="Cabai"
+                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
                 heading="Pare"
+                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
                 heading="Terong"
-              ></FeatureCard>
-              <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
-                heading="Timun"
+                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
               ></FeatureCard>
               <FeatureCard></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
                 heading="Ubi Merah"
+                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
                 heading="Ubi Ungu"
+                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
               ></FeatureCard>
             </div>
             <div className="timun-container7">
               <div className="timun-feature-card">
                 <img
-                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   alt="image"
+                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   className="timun-image3"
                 />
                 <div className="timun-container8">
-                  <h3 className="timun-text43">
+                  <h3 className="timun-text34">
                     Menyediakan kebutuhan sayur di setiap harimu
                   </h3>
                 </div>
@@ -272,7 +240,7 @@ const Timun = (props) => {
           src="/playground_assets/logo-removebg-preview-200w.png"
           className="timun-image4"
         />
-        <span className="timun-text44">
+        <span className="timun-text35">
           © 2023 KKN C-7 Sumber Makmur, All Rights Reserved.
         </span>
       </footer>

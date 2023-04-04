@@ -181,53 +181,61 @@
 }
 .cabai-text08 {
   font-style: italic;
-  font-weight: 400;
+  font-weight: 500;
 }
 .cabai-text10 {
-  font-style: italic;
-  font-weight: 400;
+  margin-top: var(--dl-space-space-unit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.cabai-text11 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.cabai-text12 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.cabai-text13 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
 }
 .cabai-text14 {
-  font-style: normal;
-  font-weight: 700;
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
 }
 .cabai-text16 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
 }
-.cabai-text24 {
-  margin-top: var(--dl-space-space-unit);
+.cabai-text19 {
+  margin-top: var(--dl-space-space-halfunit);
   font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.cabai-text20 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
 }
 .cabai-text25 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-unit);
+  font-style: italic;
+  font-weight: 500;
 }
-.cabai-text26 {
-  font-style: normal;
-  font-weight: 700;
+.cabai-text27 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
 }
 .cabai-text28 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.cabai-text29 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.cabai-text30 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.cabai-text31 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
@@ -239,28 +247,6 @@
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .cabai-text33 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.cabai-text38 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.cabai-text39 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.cabai-text40 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.cabai-text41 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
@@ -289,7 +275,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.cabai-text42 {
+.cabai-text34 {
   color: #ffffff;
   width: 100%;
   font-size: 1.4rem;
@@ -347,7 +333,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.cabai-text43 {
+.cabai-text35 {
   align-self: flex-start;
   font-family: Montserrat;
   font-weight: 600;
@@ -383,7 +369,7 @@
   height: 77px;
   object-fit: cover;
 }
-.cabai-text44 {
+.cabai-text36 {
   align-self: center;
 }
 @media(max-width: 1600px) {
@@ -436,7 +422,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-  .cabai-text42 {
+  .cabai-text34 {
     margin-bottom: var(--dl-space-space-twounits);
   }
   .cabai-container7 {
@@ -455,7 +441,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .cabai-text44 {
+  .cabai-text36 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -497,7 +483,7 @@
   .cabai-image4 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .cabai-text44 {
+  .cabai-text36 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);

@@ -71,192 +71,166 @@ const Pare = (props) => {
             <div className="pare-container5">
               <img
                 alt="image"
-                src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+                src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
                 className="pare-image2"
               />
               <h1 className="pare-text01">
-                <span>Buncis (</span>
-                <span className="pare-text03">Phaseolus vulgaris</span>
+                <span>Pare (</span>
+                <span className="pare-text03">Momordica charantia</span>
                 <span>)</span>
               </h1>
               <span className="pare-text05">
-                <span className="pare-text06">Buncis</span>
+                <span className="pare-text06">Peria</span>
                 <span>
-                  {' '}
-                  (dari bahasa Belanda
+                  ,
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="pare-text08">boontjes</span>
+                <span className="pare-text08">paria</span>
                 <span>
-                  {' '}
-                  untuk kacang-kacangan secara umum), adalah sejenis
-                  polong-polongan yang dapat dimakan dari berbagai kultivar
+                  , atau
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="pare-text10">Phaseolus vulgaris</span>
-                <span>
-                  . Buah, biji, dan daunnya dimanfaatkan orang sebagai sayuran.
-                  Sayuran ini kaya dengan kandungan protein. Ia dipercaya
-                  berasal dari Amerika Tengah dan Amerika Selatan.
-                </span>
-                <br></br>
-                <br></br>
-                <span className="pare-text14">Buncis</span>
+                <span className="pare-text10">pare</span>
                 <span>
                   {' '}
-                  adalah sayur yang kaya dengan protein dan vitamin ini membantu
-                  menurunkan tekanan darah serta mengawal metabolisme gula dalam
-                  darah dan amat sesuai dimakan oleh mereka yang mengidap
-                  penyakit diabetes atau hipertensi. Kandungan serat dan enzim
-                  yang tinggi dapat membantu penurunan berat badan.
-                </span>
-                <br className="pare-text16"></br>
-                <br></br>
-                <span>
-                  Cara menanam tanaman buncis adalah tanam langsung dengan
-                  memasukan 2-3 biji kedalam lubang sedalam 1- 2 cm kemudian
-                  ditimbun tanah, panen biasanya sudah bisa dilakukan setelah 60
-                  hari atau polong kacang sudah cocok disayur. 
-                </span>
-                <span>
-                  Kacang buncis tumbuh melilit, mempunyai akar tunggang dan sisi
-                  yang panjang dan memerlukan tiang untuk memanjat.
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Kacang buncis atau green beans memiliki banyak jenis.
-                  Masing-masing punya karakter rasa dan tekstur yang berbeda
-                  saat dimasak. Terlepas dari namanya, buncis tidak selalu
-                  berwarna hijau. Ada pula buncis yang berwarna kuning kehijauan
-                  dan buncis berwarna unggu.
+                  adalah tumbuhan merambat yang berasal dari wilayah Asia
+                  Tropis, terutama daerah India bagian barat, yaitu Assam dan
+                  Burma.Anggota suku labu-labuan atau
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <br></br>
-              </span>
-              <h1 className="pare-text24">Fakta Menarik Buncis</h1>
-              <span className="pare-text25">
-                <span className="pare-text26">Buncis</span>
+                <span className="pare-text12">Cucurbitaceae</span>
                 <span>
                   {' '}
-                  merupakan sayuran yang memiliki banyak penggemar karena
-                  harganya murah serta rasanya yang enak dan gurih. Sayuran ini
-                  masuk dalam kategori sayuran buah karena bagian yang
-                  dimanfaatkan adalah buahnya yang berbentuk polong. Faktanya,
-                  sayur ini bisa dikonsumsi secara mentah dan rasaya manis.
-                  Namun, banyak masyarakat lebih senang mengolah sayuran ini
-                  menjadi olahan masakan atau sekadar direbus untuk dijadikan
-                  lalapan. Berikut ini fakta menarik buncis.
+                  ini biasa dibudidayakan untuk dimanfaatkan sebagai sayuran
+                  maupun bahan pengobatan.Nama
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <span className="pare-text14">Momordica</span>
+                <span>
+                  {' '}
+                  yang melekat pada nama binomialnya berarti &quot;gigitan&quot;
+                  yang menunjukkan pemerian tepi daunnya yang bergerigi
+                  menyerupai bekas gigitan.
                 </span>
               </span>
-              <h3 className="pare-text28">Daerah asal</h3>
-              <span className="pare-text29">
-                Meskipun sayuran ini sangat mudah ditemukan di Indonesia dengan
-                harga yang murah. Ternyata, buncis merupakan tanaman asli Benua
-                Amerika. Sayuran ini memiliki beberapa nama internasional,
-                seperti french beans, butter beans, snap beans, dan string
-                beans. Saat ini, penyebarannya sudah meluas hingga ke seluruh
-                negara.
+              <h1 className="pare-text16">Fakta Menarik Pare</h1>
+              <h3 className="pare-text17">Menangkal Radikal Bebas</h3>
+              <span className="pare-text18">
+                Mengonsumsi seporsi pare akan memenuhi 54 persen kebutuhan tubuh
+                akan vitamin C. Manfaat pare adalahVitamin C yang terkandung di
+                dalam pare akan meningkatkan kemampuan tubuh untuk menangkal
+                radikal bebas. Manfaat pare bisa mengurangi resiko kanker kulit
+                dan kerusakan sel.
               </span>
-              <h3 className="pare-text30">Jenis buncis di Indonesia</h3>
-              <span className="pare-text31">
-                Meskipun sering terlihat sama, ternyata buncis yang tersebar di
-                pasaran memiliki beberapa varietas berbeda. Beberapa varietas
-                yang paling sering ditemui adalah lokal Surakarta, lokal Bandung
-                atau babud, kopak, hawaian wonder, kasender, dan haskesburny
-                wonder.
+              <h3 className="pare-text19">Membuat Kulit Sehat dan Cantik</h3>
+              <span className="pare-text20">
+                Manfaat pare vitamin-vitamin yang terkandung di dalam pare dapat
+                membantu kulit dalam pemulihan dari penyakit seperti eczema dan
+                psoriasis. Manfaat pare selain itu pare juga memiliki kemampuan
+                untuk memurnikan darah, menjadikan kulit bebas toksin. Inilah
+                kunci kulit yang sehat bercahaya dan bebas jerawat.
               </span>
-              <h3 className="pare-text32">Kandungan gizi</h3>
-              <span className="pare-text33">
+              <h3 className="pare-text21">Mengendalikan Gula Darah</h3>
+              <span className="pare-text22">
+                Pare memiliki sifat yang berfungsi seperti insulin, yang
+                membantu membawa glukosa ke dalam sel untuk energi. Manfaat pare
+                bisa membantu menurunkan gula darah. Konsumsi pare dapat
+                membantu sel-sel kamu mendapatkan glukosa sebagai makanan.
+                Manfaat pare juga mampu mencegah penumpukkan glukosa dalam darah
+                dan memindahkannya ke hati, otot, dan jaringan lemak.
+              </span>
+              <h3 className="pare-text23">Menjaga Kesehatan Mata</h3>
+              <span className="pare-text24">
                 <span>
-                  Buncis merupakan sumber vitamin A, C, dan B kompleks yang baik
-                  bagi tubuh. Selain itu, sayuran ini juga mengandung mineral
-                  seperti Fe, K, dan P serta mengandung banyak protein. Sayur
-                  ini juga mengandung banyak serat yang sangat berguna untuk
-                  mencegah kanker usus, tekanan darah tinggi, dan konstipasi
-                  (sembelit).
+                  Pare mengandung senyawa flavonoid, seperti ?-karoten,
+                  ?-karoten, lutein, dan zeaxanthin yang bisa membantu
+                  meningkatkan kesehatan mata Anda. Kandungan lain pada pare
+                  juga dapat mencegah katarak dan glaukoma yang disebabkan oleh
+                  komplikasi diabetes.
                 </span>
                 <br></br>
                 <br></br>
                 <span>
-                  Dengan serat tersebut, sistem pencernaan Anda menjadi lebih
-                  sehat. Dalam 100 gram buncis terdapat 35 kalori. Oleh karena
-                  itu, sayur ini sangat cocok dijadikan menu makanan bagi orang
-                  yang tengah diet.
+                  Berkat kandungan nutrisi ini, pare dapat meningkatkan fungsi
+                  penglihatan terutama masalah penglihatan di malam hari akibat
+                  rabun senja serta memperlambat degenerasi makula.
                 </span>
               </span>
-              <h3 className="pare-text38">Cara menyimpan</h3>
-              <span className="pare-text39">
-                Cara menyimpan sayuran yang benar dilakukan pada suhu rendah
-                atau pendingin di kulkas. Masukkan buncis ke plastik yang sudah
-                diberi lubang dan letakkan pada bagian crisper kulkas. Buncis
-                yang masih segar sebaiknya tidak disimpan dalam jangka waktu
-                yang lama, tidak lebih dari tiga hari. Hal tersebut dikarenakan
-                dapat menyebabkan timbulnya bercak warna hitam.
-              </span>
-              <h3 className="pare-text40">
-                Cara memasak tanpa menghilangkan gizinya
+              <h3 className="pare-text29">
+                Meredakan Asma dan Gangguan Pernafasan Lainya
               </h3>
-              <span className="pare-text41">
-                Semakin kecil potongan polong, akan semakin banyak kandungan
-                gizi yang dapat terbuang. Oleh karena itu, air bekas rebusan
-                sebaiknya tidak dibuang, Anda bisa menggunakannya sebagai bahan
-                sup, setup, atau campuran sayur. Agar warna polong tidak berubah
-                saat ditumis, berikan garam pada air rebusan agar warna sayuran
-                tetap terlihat bagus.
+              <span className="pare-text30">
+                <span>
+                  Kandungan pare mampu mencegah penyakit pernapasan umum,
+                  seperti batuk, flu, atau pilek. Dalam pengobatan tradisional
+                  Tiongkok, jus dari buah pare juga digunakan untuk mengobati
+                  kondisi pernapasan tertentu, seperti batuk kering, bronkitis,
+                  dan asma selama ratusan tahun.
+                </span>
+                <br className="pare-text32"></br>
+                <br></br>
+                <span>
+                  Pare memiliki sifat antihistamin, anti-inflamasi, dan
+                  antivirus yang membuat pare menjadi makanan tambahan yang
+                  ideal dalam menjaga kesehatan pernapasan.
+                </span>
               </span>
             </div>
           </div>
           <div className="pare-blog-post-card1">
             <div className="pare-container6">
-              <h1 className="pare-text42">Panen Lainya</h1>
+              <h1 className="pare-text35">Panen Lainya</h1>
               <FeatureCard
-                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
+                heading="Buncis"
+                image_src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+              ></FeatureCard>
+              <FeatureCard
                 heading="Cabai"
+                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
-                heading="Pare"
-              ></FeatureCard>
-              <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
                 heading="Terong"
+                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
                 heading="Timun"
+                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
               ></FeatureCard>
               <FeatureCard></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
                 heading="Ubi Merah"
+                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
                 heading="Ubi Ungu"
+                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
               ></FeatureCard>
             </div>
             <div className="pare-container7">
               <div className="pare-feature-card">
                 <img
-                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   alt="image"
+                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   className="pare-image3"
                 />
                 <div className="pare-container8">
-                  <h3 className="pare-text43">
+                  <h3 className="pare-text36">
                     Menyediakan kebutuhan sayur di setiap harimu
                   </h3>
                 </div>
@@ -272,7 +246,7 @@ const Pare = (props) => {
           src="/playground_assets/logo-removebg-preview-200w.png"
           className="pare-image4"
         />
-        <span className="pare-text44">
+        <span className="pare-text37">
           © 2023 KKN C-7 Sumber Makmur, All Rights Reserved.
         </span>
       </footer>

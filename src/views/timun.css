@@ -180,21 +180,42 @@
   font-weight: 700;
 }
 .timun-text08 {
-  font-style: italic;
-  font-weight: 400;
-}
-.timun-text10 {
-  font-style: italic;
-  font-weight: 400;
-}
-.timun-text14 {
   font-style: normal;
   font-weight: 700;
+}
+.timun-text10 {
+  font-style: normal;
+  font-weight: 700;
+}
+.timun-text12 {
+  font-style: italic;
+  font-weight: 500;
+}
+.timun-text14 {
+  font-style: italic;
+  font-weight: 500;
 }
 .timun-text16 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
+}
+.timun-text17 {
+  font-style: normal;
+  font-weight: 700;
+}
+.timun-text19 {
+  font-style: italic;
+  font-weight: 500;
+}
+.timun-text21 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+}
+.timun-text22 {
+  font-style: normal;
+  font-weight: 700;
 }
 .timun-text24 {
   margin-top: var(--dl-space-space-unit);
@@ -202,65 +223,44 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .timun-text25 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.timun-text26 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-halfunit);
 }
-.timun-text26 {
-  font-style: normal;
-  font-weight: 700;
+.timun-text27 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
 }
 .timun-text28 {
-  margin-top: var(--dl-space-space-halfunit);
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .timun-text29 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
+  margin-top: var(--dl-space-space-halfunit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .timun-text30 {
-  margin-top: var(--dl-space-space-halfunit);
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .timun-text31 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
+  margin-top: var(--dl-space-space-halfunit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .timun-text32 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.timun-text33 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.timun-text38 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.timun-text39 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.timun-text40 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.timun-text41 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
@@ -289,7 +289,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.timun-text42 {
+.timun-text33 {
   color: #ffffff;
   width: 100%;
   font-size: 1.4rem;
@@ -347,7 +347,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.timun-text43 {
+.timun-text34 {
   align-self: flex-start;
   font-family: Montserrat;
   font-weight: 600;
@@ -383,7 +383,7 @@
   height: 77px;
   object-fit: cover;
 }
-.timun-text44 {
+.timun-text35 {
   align-self: center;
 }
 @media(max-width: 1600px) {
@@ -436,7 +436,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-  .timun-text42 {
+  .timun-text33 {
     margin-bottom: var(--dl-space-space-twounits);
   }
   .timun-container7 {
@@ -455,7 +455,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .timun-text44 {
+  .timun-text35 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -497,7 +497,7 @@
   .timun-image4 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .timun-text44 {
+  .timun-text35 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);

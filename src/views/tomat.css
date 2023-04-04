@@ -180,91 +180,123 @@
   font-weight: 700;
 }
 .tomat-text08 {
-  font-style: italic;
-  font-weight: 400;
+  font-style: normal;
+  font-weight: 700;
 }
 .tomat-text10 {
   font-style: italic;
-  font-weight: 400;
+  font-weight: 500;
+}
+.tomat-text12 {
+  font-style: italic;
+  font-weight: 500;
 }
 .tomat-text14 {
-  font-style: normal;
-  font-weight: 700;
+  font-style: italic;
+  font-weight: 500;
 }
 .tomat-text16 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
 }
-.tomat-text24 {
+.tomat-text17 {
+  font-style: normal;
+  font-weight: 700;
+}
+.tomat-text19 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+}
+.tomat-text20 {
+  font-style: normal;
+  font-weight: 700;
+}
+.tomat-text22 {
   margin-top: var(--dl-space-space-unit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-unit);
 }
-.tomat-text25 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-unit);
-}
-.tomat-text26 {
-  font-style: normal;
-  font-weight: 700;
-}
-.tomat-text28 {
+.tomat-text23 {
   margin-top: var(--dl-space-space-halfunit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.tomat-text29 {
+.tomat-text24 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.tomat-text26 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+}
+.tomat-text29 {
+  margin-top: var(--dl-space-space-halfunit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .tomat-text30 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.tomat-text31 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .tomat-text32 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+}
+.tomat-text35 {
   margin-top: var(--dl-space-space-halfunit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.tomat-text33 {
+.tomat-text36 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .tomat-text38 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.tomat-text39 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.tomat-text40 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
 }
 .tomat-text41 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.tomat-text42 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
+}
+.tomat-text44 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+}
+.tomat-text47 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.tomat-text48 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.tomat-text50 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
 }
 .tomat-blog-post-card1 {
   width: 30%;
@@ -289,7 +321,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.tomat-text42 {
+.tomat-text53 {
   color: #ffffff;
   width: 100%;
   font-size: 1.4rem;
@@ -347,7 +379,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.tomat-text43 {
+.tomat-text54 {
   align-self: flex-start;
   font-family: Montserrat;
   font-weight: 600;
@@ -383,7 +415,7 @@
   height: 77px;
   object-fit: cover;
 }
-.tomat-text44 {
+.tomat-text55 {
   align-self: center;
 }
 @media(max-width: 1600px) {
@@ -436,7 +468,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-  .tomat-text42 {
+  .tomat-text53 {
     margin-bottom: var(--dl-space-space-twounits);
   }
   .tomat-container7 {
@@ -455,7 +487,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .tomat-text44 {
+  .tomat-text55 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -497,7 +529,7 @@
   .tomat-image4 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .tomat-text44 {
+  .tomat-text55 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);

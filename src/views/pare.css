@@ -177,94 +177,88 @@
 }
 .pare-text06 {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
 }
 .pare-text08 {
-  font-style: italic;
-  font-weight: 400;
-}
-.pare-text10 {
-  font-style: italic;
-  font-weight: 400;
-}
-.pare-text14 {
   font-style: normal;
   font-weight: 700;
 }
-.pare-text16 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
+.pare-text10 {
+  font-style: normal;
+  font-weight: 700;
 }
-.pare-text24 {
+.pare-text12 {
+  font-style: italic;
+  font-weight: 500;
+}
+.pare-text14 {
+  font-style: italic;
+  font-weight: 500;
+}
+.pare-text16 {
   margin-top: var(--dl-space-space-unit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-unit);
 }
-.pare-text25 {
+.pare-text17 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.pare-text18 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-halfunit);
 }
-.pare-text26 {
-  font-style: normal;
-  font-weight: 700;
-}
-.pare-text28 {
+.pare-text19 {
   margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.pare-text20 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.pare-text21 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.pare-text22 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.pare-text23 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.pare-text24 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .pare-text29 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.pare-text30 {
   margin-top: var(--dl-space-space-halfunit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.pare-text31 {
+.pare-text30 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .pare-text32 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.pare-text33 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.pare-text38 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.pare-text39 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.pare-text40 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.pare-text41 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
 }
 .pare-blog-post-card1 {
   width: 30%;
@@ -289,7 +283,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.pare-text42 {
+.pare-text35 {
   color: #ffffff;
   width: 100%;
   font-size: 1.4rem;
@@ -347,7 +341,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.pare-text43 {
+.pare-text36 {
   align-self: flex-start;
   font-family: Montserrat;
   font-weight: 600;
@@ -383,7 +377,7 @@
   height: 77px;
   object-fit: cover;
 }
-.pare-text44 {
+.pare-text37 {
   align-self: center;
 }
 @media(max-width: 1600px) {
@@ -436,7 +430,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-  .pare-text42 {
+  .pare-text35 {
     margin-bottom: var(--dl-space-space-twounits);
   }
   .pare-container7 {
@@ -455,7 +449,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .pare-text44 {
+  .pare-text37 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -497,7 +491,7 @@
   .pare-image4 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .pare-text44 {
+  .pare-text37 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);

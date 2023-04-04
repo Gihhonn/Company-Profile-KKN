@@ -71,192 +71,221 @@ const Tomat = (props) => {
             <div className="tomat-container5">
               <img
                 alt="image"
-                src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+                src="https://img.freepik.com/free-photo/tomato-isolated_2829-17582.jpg?w=826&amp;t=st=1680360412~exp=1680361012~hmac=3e7dab527fad8ee9f63da858574e7e74eb6990c332ba88b9a965d8ab7342fc95"
                 className="tomat-image2"
               />
               <h1 className="tomat-text01">
-                <span>Buncis (</span>
-                <span className="tomat-text03">Phaseolus vulgaris</span>
+                <span>Tomat (</span>
+                <span className="tomat-text03">Lycopersicon</span>
                 <span>)</span>
               </h1>
               <span className="tomat-text05">
-                <span className="tomat-text06">Buncis</span>
+                <span className="tomat-text06">Tomat</span>
                 <span>
                   {' '}
-                  (dari bahasa Belanda
+                  atau
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="tomat-text08">boontjes</span>
+                <span className="tomat-text08">rangam</span>
+                <span> (</span>
+                <span className="tomat-text10">Solanum lycopersicum syn.</span>
                 <span>
-                  {' '}
-                  untuk kacang-kacangan secara umum), adalah sejenis
-                  polong-polongan yang dapat dimakan dari berbagai kultivar
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="tomat-text10">Phaseolus vulgaris</span>
+                <span className="tomat-text12">Lycopersicum esculentum</span>
                 <span>
-                  . Buah, biji, dan daunnya dimanfaatkan orang sebagai sayuran.
-                  Sayuran ini kaya dengan kandungan protein. Ia dipercaya
-                  berasal dari Amerika Tengah dan Amerika Selatan.
+                  ) adalah tumbuhan dari keluarga
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
                 </span>
-                <br></br>
-                <br></br>
-                <span className="tomat-text14">Buncis</span>
+                <span className="tomat-text14">Solanaceae</span>
                 <span>
-                  {' '}
-                  adalah sayur yang kaya dengan protein dan vitamin ini membantu
-                  menurunkan tekanan darah serta mengawal metabolisme gula dalam
-                  darah dan amat sesuai dimakan oleh mereka yang mengidap
-                  penyakit diabetes atau hipertensi. Kandungan serat dan enzim
-                  yang tinggi dapat membantu penurunan berat badan.
+                  , tumbuhan asli Amerika Tengah dan Selatan, dari Meksiko
+                  sampai Peru. Tomat merupakan tumbuhan siklus hidup singkat,
+                  dapat tumbuh setinggi 1 sampai 3 meter. Tumbuhan ini memiliki
+                  buah berwarna hijau, kuning, dan merah yang biasa dipakai
+                  sebagai sayur dalam masakan atau dimakan secara langsung tanpa
+                  diproses. Tomat memiliki batang dan daun yang tidak dapat
+                  dikonsumsi karena masih sekeluarga dengan kentang dan terung
+                  yang mengadung alkaloid.
                 </span>
                 <br className="tomat-text16"></br>
-                <br></br>
+                <br className="tomat-text17"></br>
                 <span>
-                  Cara menanam tanaman buncis adalah tanam langsung dengan
-                  memasukan 2-3 biji kedalam lubang sedalam 1- 2 cm kemudian
-                  ditimbun tanah, panen biasanya sudah bisa dilakukan setelah 60
-                  hari atau polong kacang sudah cocok disayur. 
+                  Cara menanam tanaman tomat adalah disemai lebih dahulu,
+                  setelah tumbuh 4 daun sejati kemudian ditanam (dijadikan bibit
+                  terlebih dahulu). Panen dimulai usia 9 minggu setelah tanam
+                  selanjutnya setiap 5 hari.
                 </span>
+                <br className="tomat-text19"></br>
+                <br className="tomat-text20"></br>
                 <span>
-                  Kacang buncis tumbuh melilit, mempunyai akar tunggang dan sisi
-                  yang panjang dan memerlukan tiang untuk memanjat.
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Kacang buncis atau green beans memiliki banyak jenis.
-                  Masing-masing punya karakter rasa dan tekstur yang berbeda
-                  saat dimasak. Terlepas dari namanya, buncis tidak selalu
-                  berwarna hijau. Ada pula buncis yang berwarna kuning kehijauan
-                  dan buncis berwarna unggu.
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </span>
-                <br></br>
-              </span>
-              <h1 className="tomat-text24">Fakta Menarik Buncis</h1>
-              <span className="tomat-text25">
-                <span className="tomat-text26">Buncis</span>
-                <span>
-                  {' '}
-                  merupakan sayuran yang memiliki banyak penggemar karena
-                  harganya murah serta rasanya yang enak dan gurih. Sayuran ini
-                  masuk dalam kategori sayuran buah karena bagian yang
-                  dimanfaatkan adalah buahnya yang berbentuk polong. Faktanya,
-                  sayur ini bisa dikonsumsi secara mentah dan rasaya manis.
-                  Namun, banyak masyarakat lebih senang mengolah sayuran ini
-                  menjadi olahan masakan atau sekadar direbus untuk dijadikan
-                  lalapan. Berikut ini fakta menarik buncis.
+                  Kata &quot;tomat&quot; berasal dari kata dalam bahasa Nahuatl,
+                  tomat. Salah satu produk buatan hasil olahan tomat yang
+                  digemari, yaitu saus tomat. Hampir di berbagai negara
+                  memproduksi saus tomat. Saus tomat sendiri banyak dimanfaatkan
+                  untuk bumbu tambahan dalam mengolah berbagai masakan. Saus
+                  tomat juga dapat disajikan langsung bersama burger, sandwich,
+                  dan banyak lagi yang lainnya. Selain untuk tambahan dalam
+                  mengolah makanan, tomat juga dapat diolah menjadi jus tomat.
                 </span>
               </span>
-              <h3 className="tomat-text28">Daerah asal</h3>
-              <span className="tomat-text29">
-                Meskipun sayuran ini sangat mudah ditemukan di Indonesia dengan
-                harga yang murah. Ternyata, buncis merupakan tanaman asli Benua
-                Amerika. Sayuran ini memiliki beberapa nama internasional,
-                seperti french beans, butter beans, snap beans, dan string
-                beans. Saat ini, penyebarannya sudah meluas hingga ke seluruh
-                negara.
-              </span>
-              <h3 className="tomat-text30">Jenis buncis di Indonesia</h3>
-              <span className="tomat-text31">
-                Meskipun sering terlihat sama, ternyata buncis yang tersebar di
-                pasaran memiliki beberapa varietas berbeda. Beberapa varietas
-                yang paling sering ditemui adalah lokal Surakarta, lokal Bandung
-                atau babud, kopak, hawaian wonder, kasender, dan haskesburny
-                wonder.
-              </span>
-              <h3 className="tomat-text32">Kandungan gizi</h3>
-              <span className="tomat-text33">
-                <span>
-                  Buncis merupakan sumber vitamin A, C, dan B kompleks yang baik
-                  bagi tubuh. Selain itu, sayuran ini juga mengandung mineral
-                  seperti Fe, K, dan P serta mengandung banyak protein. Sayur
-                  ini juga mengandung banyak serat yang sangat berguna untuk
-                  mencegah kanker usus, tekanan darah tinggi, dan konstipasi
-                  (sembelit).
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Dengan serat tersebut, sistem pencernaan Anda menjadi lebih
-                  sehat. Dalam 100 gram buncis terdapat 35 kalori. Oleh karena
-                  itu, sayur ini sangat cocok dijadikan menu makanan bagi orang
-                  yang tengah diet.
-                </span>
-              </span>
-              <h3 className="tomat-text38">Cara menyimpan</h3>
-              <span className="tomat-text39">
-                Cara menyimpan sayuran yang benar dilakukan pada suhu rendah
-                atau pendingin di kulkas. Masukkan buncis ke plastik yang sudah
-                diberi lubang dan letakkan pada bagian crisper kulkas. Buncis
-                yang masih segar sebaiknya tidak disimpan dalam jangka waktu
-                yang lama, tidak lebih dari tiga hari. Hal tersebut dikarenakan
-                dapat menyebabkan timbulnya bercak warna hitam.
-              </span>
-              <h3 className="tomat-text40">
-                Cara memasak tanpa menghilangkan gizinya
+              <h1 className="tomat-text22">Fakta Menarik Buncis</h1>
+              <h3 className="tomat-text23">
+                Tomat ditemukan pertama kali oleh Suku Aztek di Amerika
               </h3>
-              <span className="tomat-text41">
-                Semakin kecil potongan polong, akan semakin banyak kandungan
-                gizi yang dapat terbuang. Oleh karena itu, air bekas rebusan
-                sebaiknya tidak dibuang, Anda bisa menggunakannya sebagai bahan
-                sup, setup, atau campuran sayur. Agar warna polong tidak berubah
-                saat ditumis, berikan garam pada air rebusan agar warna sayuran
-                tetap terlihat bagus.
+              <span className="tomat-text24">
+                <span>
+                  Semua tanaman memang biasanya memiliki asal muasal tersendiri.
+                  Termasuk dalam hal ini adalah keberadaan tanaman tomat yang
+                  kerap dimanfaatkan oleh berbagai orang di seluruh penjuru
+                  dunia.
+                </span>
+                <br className="tomat-text26"></br>
+                <br></br>
+                <span>
+                  Dilansir Tomato Cages, tomat konon ditemukan pertama kali pada
+                  awal masa Suku Aztek sekitar 700 Masehi. Tidak mengherankan
+                  apabila memang tomat dianggap sebagai jenis tanaman asli
+                  Amerika. Meski begitu, tak sampai awal abad ke-16, tanaman ini
+                  mulai diperkenalkan secara luas pada publik Eropa.
+                </span>
+              </span>
+              <h3 className="tomat-text29">
+                {' '}
+                Tomat lebih cocok dibudidayakan pada temperatur yang hangat
+              </h3>
+              <span className="tomat-text30">
+                <span>
+                  Tomat bisa dikatakan sebagai tanaman yang cocok dengan iklim
+                  tropis. Hal ini karena memang tomat dapat tumbuh secara
+                  maksimal pada suhu hangat dengan kelembapan tertentu.
+                </span>
+                <br className="tomat-text32"></br>
+                <br></br>
+                <span>
+                  Mengutip Star ke Ayres, suhu minimum untuk membudidayakan
+                  tomat adalah sekitar 10 derajat selsius, serta suhu
+                  maksimalnya adalah 34 derajat Celsius. Meski begitu, suhu
+                  optimum tomat biasanya sekitar 26-29 derajat Celsius. Bahkan
+                  tanaman tomat juga memerlukan kelembapan antara sekitar 65-85
+                  persen.
+                </span>
+              </span>
+              <h3 className="tomat-text35">
+                Memiliki banyak manfaat kesehatan
+              </h3>
+              <span className="tomat-text36">
+                <span>
+                  Tomat bukan hanya dikenal sebagai jenis tanaman untuk memasak.
+                  Nyatanya tomat juga bisa dikonsumsi untuk banyak tujuan, salah
+                  satunya agar dapat memperoleh manfaat kesehatan yang maksimal.
+                </span>
+                <br className="tomat-text38"></br>
+                <br></br>
+                <span>
+                  Bahkan, tomat memiliki beberapa manfaat baik, seperti tinggi
+                  serat, kaya vitamin dan mineral, serta mengandung banyak
+                  manfaat untuk melawan berbagai penyakit, seperti dilansir
+                  Health Line. Tidak mengherankan bila banyak orang mengonsumsi
+                  tomat untuk dibuat jus, salad, dan lain sebagainya, sehingga
+                  dapat memperoleh manfaatnya dengan maksimal.
+                </span>
+              </span>
+              <h3 className="tomat-text41">
+                Tomat sebetulnya digolongkan sebagai buah, bukan sayur
+              </h3>
+              <span className="tomat-text42">
+                <span>
+                  Perdebatan mengenai klasifikasi dari tomat mungkin menjadi
+                  topik yang kerap dibahas. Hal ini karena beberapa orang
+                  memiliki pandangan yang berbeda dalam mengklasifikasikan tomat
+                  ke dalam buah atau pun sayuran.
+                </span>
+                <br className="tomat-text44"></br>
+                <br></br>
+                <span>
+                  Secara botani, ternyata tomat diklasifikasikan sebagai buah,
+                  sebab memiliki biji di dalamnya dan tumbuh dari bunga yang
+                  terdapat pada tanamannya, seperti dikutip Britannica. Meski
+                  termasuk buah, tapi banyak orang justru memperlakukan tomat
+                  selayaknya bagian dari sayuran.
+                </span>
+              </span>
+              <h3 className="tomat-text47">
+                Tiongkok berhasil menjadi produsen tomat terbesar di dunia
+              </h3>
+              <span className="tomat-text48">
+                <span>
+                  Tomat termasuk ke dalam kategori komoditas ekspor yang kerap
+                  dilakukan oleh beberapa negara. Hal ini karena memang
+                  permintaan terhadap tomat cukup tinggi, serta tidak semua
+                  negara mampu untuk melakukan budidaya secara langsung.
+                </span>
+                <br className="tomat-text50"></br>
+                <br></br>
+                <span>
+                  Dilansir AtlasBig, Tiongkok berhasil menduduki posisi pertama
+                  sebagai produsen tomat terbesar di dunia, yaitu mencapai angka
+                  56,4 juta ton produksi setiap tahunnya. Deret ini diikuti oleh
+                  India dengan 18,3 juta ton, serta Amerika Serikat yang
+                  mencapai 13 jutaan ton.
+                </span>
               </span>
             </div>
           </div>
           <div className="tomat-blog-post-card1">
             <div className="tomat-container6">
-              <h1 className="tomat-text42">Panen Lainya</h1>
+              <h1 className="tomat-text53">Panen Lainya</h1>
               <FeatureCard
-                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
+                heading="Buncis"
+                image_src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+              ></FeatureCard>
+              <FeatureCard
                 heading="Cabai"
+                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
                 heading="Pare"
+                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
                 heading="Terong"
+                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
                 heading="Timun"
+                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
               ></FeatureCard>
-              <FeatureCard></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
                 heading="Ubi Merah"
+                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
                 heading="Ubi Ungu"
+                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
               ></FeatureCard>
             </div>
             <div className="tomat-container7">
               <div className="tomat-feature-card">
                 <img
-                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   alt="image"
+                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   className="tomat-image3"
                 />
                 <div className="tomat-container8">
-                  <h3 className="tomat-text43">
+                  <h3 className="tomat-text54">
                     Menyediakan kebutuhan sayur di setiap harimu
                   </h3>
                 </div>
@@ -272,7 +301,7 @@ const Tomat = (props) => {
           src="/playground_assets/logo-removebg-preview-200w.png"
           className="tomat-image4"
         />
-        <span className="tomat-text44">
+        <span className="tomat-text55">
           © 2023 KKN C-7 Sumber Makmur, All Rights Reserved.
         </span>
       </footer>

@@ -71,192 +71,129 @@ const Terong = (props) => {
             <div className="terong-container5">
               <img
                 alt="image"
-                src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+                src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
                 className="terong-image2"
               />
               <h1 className="terong-text01">
-                <span>Buncis (</span>
-                <span className="terong-text03">Phaseolus vulgaris</span>
+                <span>Terong (</span>
+                <span className="terong-text03">Solanum melongena</span>
                 <span>)</span>
               </h1>
               <span className="terong-text05">
-                <span className="terong-text06">Buncis</span>
+                <span className="terong-text06">Terung</span>
                 <span>
                   {' '}
-                  (dari bahasa Belanda
+                  atau
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="terong-text08">boontjes</span>
+                <span className="terong-text08">terong</span>
+                <span> (</span>
+                <span className="terong-text10">Solanum melongena</span>
+                <span>
+                  ) adalah tumbuhan penghasil buah yang dijadikan sayur-sayuran.
+                  Asalnya adalah India dan Sri Lanka. Terung berkerabat dekat
+                  dengan kentang dan leunca, dan agak jauh dari tomat.
+                </span>
+                <br className="terong-text12"></br>
+                <br className="terong-text13"></br>
+                <span className="terong-text14">Terung</span>
                 <span>
                   {' '}
-                  untuk kacang-kacangan secara umum), adalah sejenis
-                  polong-polongan yang dapat dimakan dari berbagai kultivar
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </span>
-                <span className="terong-text10">Phaseolus vulgaris</span>
-                <span>
-                  . Buah, biji, dan daunnya dimanfaatkan orang sebagai sayuran.
-                  Sayuran ini kaya dengan kandungan protein. Ia dipercaya
-                  berasal dari Amerika Tengah dan Amerika Selatan.
-                </span>
-                <br></br>
-                <br></br>
-                <span className="terong-text14">Buncis</span>
-                <span>
-                  {' '}
-                  adalah sayur yang kaya dengan protein dan vitamin ini membantu
-                  menurunkan tekanan darah serta mengawal metabolisme gula dalam
-                  darah dan amat sesuai dimakan oleh mereka yang mengidap
-                  penyakit diabetes atau hipertensi. Kandungan serat dan enzim
-                  yang tinggi dapat membantu penurunan berat badan.
+                  ialah terna yang sering ditanam secara tahunan. Tanaman ini
+                  tumbuh hingga 40–150 cm (16-57 inci) tingginya. Daunnya besar,
+                  dengan lobus yang kasar. Ukurannya 10–20 cm (4-8 inci)
+                  panjangnya dan 5–10 cm (2-4 inci) lebarnya. Jenis-jenis
+                  setengah liar lebih besar dan tumbuh hingga setinggi 225 cm (7
+                  kaki), dengan daun yang melebihi 30 cm (12 inci) dan 15 cm (6
+                  inci) panjangnya. Batangnya biasanya berduri. Warna bunganya
+                  antara putih hingga ungu, dengan mahkota yang memiliki lima
+                  lobus. Benang sarinya berwarna kuning. Buah tepung berisi,
+                  dengan diameter yang kurang dari 3 cm untuk yang liar, dan
+                  lebih besar lagi untuk jenis yang ditanam.
                 </span>
                 <br className="terong-text16"></br>
-                <br></br>
+                <br className="terong-text17"></br>
                 <span>
-                  Cara menanam tanaman buncis adalah tanam langsung dengan
-                  memasukan 2-3 biji kedalam lubang sedalam 1- 2 cm kemudian
-                  ditimbun tanah, panen biasanya sudah bisa dilakukan setelah 60
-                  hari atau polong kacang sudah cocok disayur. 
+                  Cara menanam tanaman terung adalah disemai, setelah tumbuh 4
+                  daun sejati kemudian ditanam (dijadikan bibit terlebih
+                  dahulu). Panen dimulai pada 70-80 hari setelah semai
+                  selanjutnya setiap 5 hari.
                 </span>
+                <br className="terong-text19"></br>
+                <br className="terong-text20"></br>
                 <span>
-                  Kacang buncis tumbuh melilit, mempunyai akar tunggang dan sisi
-                  yang panjang dan memerlukan tiang untuk memanjat.
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Kacang buncis atau green beans memiliki banyak jenis.
-                  Masing-masing punya karakter rasa dan tekstur yang berbeda
-                  saat dimasak. Terlepas dari namanya, buncis tidak selalu
-                  berwarna hijau. Ada pula buncis yang berwarna kuning kehijauan
-                  dan buncis berwarna unggu.
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </span>
-                <br></br>
-              </span>
-              <h1 className="terong-text24">Fakta Menarik Buncis</h1>
-              <span className="terong-text25">
-                <span className="terong-text26">Buncis</span>
-                <span>
-                  {' '}
-                  merupakan sayuran yang memiliki banyak penggemar karena
-                  harganya murah serta rasanya yang enak dan gurih. Sayuran ini
-                  masuk dalam kategori sayuran buah karena bagian yang
-                  dimanfaatkan adalah buahnya yang berbentuk polong. Faktanya,
-                  sayur ini bisa dikonsumsi secara mentah dan rasaya manis.
-                  Namun, banyak masyarakat lebih senang mengolah sayuran ini
-                  menjadi olahan masakan atau sekadar direbus untuk dijadikan
-                  lalapan. Berikut ini fakta menarik buncis.
+                  Dari segi botani, buah yang dikelaskan sebagai beri memiliki
+                  banyak biji yang kecil dan lembut. Biji itu dapat dimakan
+                  tetapi rasanya pahit karena mengandung nikotin, sejenis
+                  alkaloid yang banyak dikandung tembakau.
                 </span>
               </span>
-              <h3 className="terong-text28">Daerah asal</h3>
-              <span className="terong-text29">
-                Meskipun sayuran ini sangat mudah ditemukan di Indonesia dengan
-                harga yang murah. Ternyata, buncis merupakan tanaman asli Benua
-                Amerika. Sayuran ini memiliki beberapa nama internasional,
-                seperti french beans, butter beans, snap beans, dan string
-                beans. Saat ini, penyebarannya sudah meluas hingga ke seluruh
-                negara.
+              <h1 className="terong-text22">Fakta Menarik Terong</h1>
+              <h3 className="terong-text23">Asal-Usul Nama Eggplant</h3>
+              <span className="terong-text24">
+                Dalam bahasa Inggris terung disebut eggplant. Nama ini diduga
+                muncul karena terung putih yang tersebar di Eropa sering dikira
+                telur ayam karena bentuknya yang mirip. Namun, walaupun dalam
+                bahasa Inggris disebut eggplant, tetapi terung di Inggris dan
+                Prancis dikenal dengan nama aubergine.
               </span>
-              <h3 className="terong-text30">Jenis buncis di Indonesia</h3>
-              <span className="terong-text31">
-                Meskipun sering terlihat sama, ternyata buncis yang tersebar di
-                pasaran memiliki beberapa varietas berbeda. Beberapa varietas
-                yang paling sering ditemui adalah lokal Surakarta, lokal Bandung
-                atau babud, kopak, hawaian wonder, kasender, dan haskesburny
-                wonder.
+              <h3 className="terong-text25">Keluarga Beri</h3>
+              <span className="terong-text26">
+                Walaupun secara fisik berbeda dengan keluarga beri yang kita
+                kenal, terung ternyata masuk ke dalam keluarga buah beri. Hal
+                ini karena terung memiliki banyak biji kecil dan lembut yang
+                merupakan ciri khas dari kelompok buah beri.
               </span>
-              <h3 className="terong-text32">Kandungan gizi</h3>
-              <span className="terong-text33">
-                <span>
-                  Buncis merupakan sumber vitamin A, C, dan B kompleks yang baik
-                  bagi tubuh. Selain itu, sayuran ini juga mengandung mineral
-                  seperti Fe, K, dan P serta mengandung banyak protein. Sayur
-                  ini juga mengandung banyak serat yang sangat berguna untuk
-                  mencegah kanker usus, tekanan darah tinggi, dan konstipasi
-                  (sembelit).
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Dengan serat tersebut, sistem pencernaan Anda menjadi lebih
-                  sehat. Dalam 100 gram buncis terdapat 35 kalori. Oleh karena
-                  itu, sayur ini sangat cocok dijadikan menu makanan bagi orang
-                  yang tengah diet.
-                </span>
-              </span>
-              <h3 className="terong-text38">Cara menyimpan</h3>
-              <span className="terong-text39">
-                Cara menyimpan sayuran yang benar dilakukan pada suhu rendah
-                atau pendingin di kulkas. Masukkan buncis ke plastik yang sudah
-                diberi lubang dan letakkan pada bagian crisper kulkas. Buncis
-                yang masih segar sebaiknya tidak disimpan dalam jangka waktu
-                yang lama, tidak lebih dari tiga hari. Hal tersebut dikarenakan
-                dapat menyebabkan timbulnya bercak warna hitam.
-              </span>
-              <h3 className="terong-text40">
-                Cara memasak tanpa menghilangkan gizinya
-              </h3>
-              <span className="terong-text41">
-                Semakin kecil potongan polong, akan semakin banyak kandungan
-                gizi yang dapat terbuang. Oleh karena itu, air bekas rebusan
-                sebaiknya tidak dibuang, Anda bisa menggunakannya sebagai bahan
-                sup, setup, atau campuran sayur. Agar warna polong tidak berubah
-                saat ditumis, berikan garam pada air rebusan agar warna sayuran
-                tetap terlihat bagus.
+              <h3 className="terong-text27">Mengandung Nikotin</h3>
+              <span className="terong-text28">
+                Banyak yang tidak tahu bahwa biji terung mengandung nikotin.
+                Keberadaan nikotin ini yang menyebabkan ada rasa pahit yang
+                muncul saat mengkonsumsi bijinya.
               </span>
             </div>
           </div>
           <div className="terong-blog-post-card1">
             <div className="terong-container6">
-              <h1 className="terong-text42">Panen Lainya</h1>
+              <h1 className="terong-text29">Panen Lainya</h1>
               <FeatureCard
-                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
+                heading="Buncis"
+                image_src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+              ></FeatureCard>
+              <FeatureCard
                 heading="Cabai"
+                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
                 heading="Pare"
+                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
-                heading="Terong"
-              ></FeatureCard>
-              <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
                 heading="Timun"
+                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
               ></FeatureCard>
               <FeatureCard></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
                 heading="Ubi Merah"
+                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
                 heading="Ubi Ungu"
+                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
               ></FeatureCard>
             </div>
             <div className="terong-container7">
               <div className="terong-feature-card">
                 <img
-                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   alt="image"
+                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   className="terong-image3"
                 />
                 <div className="terong-container8">
-                  <h3 className="terong-text43">
+                  <h3 className="terong-text30">
                     Menyediakan kebutuhan sayur di setiap harimu
                   </h3>
                 </div>
@@ -272,7 +209,7 @@ const Terong = (props) => {
           src="/playground_assets/logo-removebg-preview-200w.png"
           className="terong-image4"
         />
-        <span className="terong-text44">
+        <span className="terong-text31">
           © 2023 KKN C-7 Sumber Makmur, All Rights Reserved.
         </span>
       </footer>

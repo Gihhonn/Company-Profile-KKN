@@ -180,12 +180,21 @@
   font-weight: 700;
 }
 .terong-text08 {
-  font-style: italic;
-  font-weight: 400;
+  font-style: normal;
+  font-weight: 700;
 }
 .terong-text10 {
   font-style: italic;
-  font-weight: 400;
+  font-weight: 500;
+}
+.terong-text12 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+}
+.terong-text13 {
+  font-style: normal;
+  font-weight: 700;
 }
 .terong-text14 {
   font-style: normal;
@@ -196,71 +205,52 @@
   font-size: 1.2rem;
   font-family: Montserrat;
 }
-.terong-text24 {
+.terong-text17 {
+  font-style: normal;
+  font-weight: 700;
+}
+.terong-text19 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+}
+.terong-text20 {
+  font-style: normal;
+  font-weight: 700;
+}
+.terong-text22 {
   margin-top: var(--dl-space-space-unit);
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-unit);
 }
-.terong-text25 {
+.terong-text23 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.terong-text24 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.terong-text25 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
 }
 .terong-text26 {
-  font-style: normal;
-  font-weight: 700;
+  color: var(--dl-color-gray-500);
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.terong-text27 {
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-halfunit);
 }
 .terong-text28 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text29 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text30 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text31 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text32 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text33 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text38 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text39 {
-  color: var(--dl-color-gray-500);
-  font-size: 1.2rem;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text40 {
-  margin-top: var(--dl-space-space-halfunit);
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.terong-text41 {
   color: var(--dl-color-gray-500);
   font-size: 1.2rem;
   font-family: Montserrat;
@@ -289,7 +279,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.terong-text42 {
+.terong-text29 {
   color: #ffffff;
   width: 100%;
   font-size: 1.4rem;
@@ -347,7 +337,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.terong-text43 {
+.terong-text30 {
   align-self: flex-start;
   font-family: Montserrat;
   font-weight: 600;
@@ -383,7 +373,7 @@
   height: 77px;
   object-fit: cover;
 }
-.terong-text44 {
+.terong-text31 {
   align-self: center;
 }
 @media(max-width: 1600px) {
@@ -436,7 +426,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-  .terong-text42 {
+  .terong-text29 {
     margin-bottom: var(--dl-space-space-twounits);
   }
   .terong-container7 {
@@ -455,7 +445,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .terong-text44 {
+  .terong-text31 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -497,7 +487,7 @@
   .terong-image4 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .terong-text44 {
+  .terong-text31 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);

@@ -83,192 +83,142 @@ const Ubiungu = (props) => {
             <div className="ubiungu-container5">
               <img
                 alt="image"
-                src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+                src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
                 className="ubiungu-image2"
               />
               <h1 className="ubiungu-text01">
-                <span>Buncis (</span>
-                <span className="ubiungu-text03">Phaseolus vulgaris</span>
+                <span>Ubi Jalar Ungu (</span>
+                <span className="ubiungu-text03">
+                  Ipomoea Batatas var Ayamurasaki
+                </span>
                 <span>)</span>
               </h1>
               <span className="ubiungu-text05">
-                <span className="ubiungu-text06">Buncis</span>
+                <span className="ubiungu-text06">Ubi jalar ungu</span>
+                <span> (</span>
+                <span className="ubiungu-text08">
+                  Ipomoea batatas var Ayumurasaki
+                </span>
                 <span>
-                  {' '}
-                  (dari bahasa Belanda
+                  ) biasa disebut
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="ubiungu-text08">boontjes</span>
+                <span className="ubiungu-text10">Ipomoea batatas</span>
                 <span>
                   {' '}
-                  untuk kacang-kacangan secara umum), adalah sejenis
-                  polong-polongan yang dapat dimakan dari berbagai kultivar
+                  karena memiliki kulit dan daging umbi yang berwarna ungu
+                  kehitaman (ungu pekat). Ubi jalar ungu mengandung pigmen
+                  antosianin yang lebih tinggi daripada ubi jalar jenis lain.
+                  Menurut Sri Kumala Ningsih (2006), menyatakan bahwa ubi jalar
+                  ungu mulai dikenal menyebar ke seluruh dunia terutama
+                  negaranegara yang beriklim tropis. Pada abad ke-16
+                  diperkirakan ubi jalar ungu pertama kali di Spanyol melalui
+                  Tahiti, Kepulauan Guam, Fiji dan Selandia Baru.
+                </span>
+                <br></br>
+                <br></br>
+                <span>
+                  Keunggulan ubi ungu adalah adalah zat antioksidan yang
+                  membantu tubuh menangkal radikal bebas, selain itu, prebiotik
+                  bisa mengusir zat-zat racun penyebab kanker (antikarsinogenik)
+                  dan melawan mikroba pengganggu (anti mikrobial). Kabar baik
+                  lainnya, prebiotik membantu menyerap mineral serta mengatur
+                  keseimbangan kadarnya di dalam tubuh, dengan begitu, akan
+                  terhindar dari osteoporosis. Kandungan lain yang bermanfaat
+                  pada ubi jalar ungu adalah fenol, yaitu senyawa kimia yang
+                  memiliki efek anti-penuaan dan kompenen antioksidan. Ubi jalar
+                  ungu merupakan sumber karbohidrat dan sumber kalori yang cukup
+                  tinggi.
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <span className="ubiungu-text10">Phaseolus vulgaris</span>
-                <span>
-                  . Buah, biji, dan daunnya dimanfaatkan orang sebagai sayuran.
-                  Sayuran ini kaya dengan kandungan protein. Ia dipercaya
-                  berasal dari Amerika Tengah dan Amerika Selatan.
-                </span>
-                <br></br>
-                <br></br>
-                <span className="ubiungu-text14">Buncis</span>
-                <span>
-                  {' '}
-                  adalah sayur yang kaya dengan protein dan vitamin ini membantu
-                  menurunkan tekanan darah serta mengawal metabolisme gula dalam
-                  darah dan amat sesuai dimakan oleh mereka yang mengidap
-                  penyakit diabetes atau hipertensi. Kandungan serat dan enzim
-                  yang tinggi dapat membantu penurunan berat badan.
-                </span>
-                <br className="ubiungu-text16"></br>
-                <br></br>
-                <span>
-                  Cara menanam tanaman buncis adalah tanam langsung dengan
-                  memasukan 2-3 biji kedalam lubang sedalam 1- 2 cm kemudian
-                  ditimbun tanah, panen biasanya sudah bisa dilakukan setelah 60
-                  hari atau polong kacang sudah cocok disayur. 
-                </span>
-                <span>
-                  Kacang buncis tumbuh melilit, mempunyai akar tunggang dan sisi
-                  yang panjang dan memerlukan tiang untuk memanjat.
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Kacang buncis atau green beans memiliki banyak jenis.
-                  Masing-masing punya karakter rasa dan tekstur yang berbeda
-                  saat dimasak. Terlepas dari namanya, buncis tidak selalu
-                  berwarna hijau. Ada pula buncis yang berwarna kuning kehijauan
-                  dan buncis berwarna unggu.
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </span>
-                <br></br>
               </span>
-              <h1 className="ubiungu-text24">Fakta Menarik Buncis</h1>
-              <span className="ubiungu-text25">
-                <span className="ubiungu-text26">Buncis</span>
-                <span>
-                  {' '}
-                  merupakan sayuran yang memiliki banyak penggemar karena
-                  harganya murah serta rasanya yang enak dan gurih. Sayuran ini
-                  masuk dalam kategori sayuran buah karena bagian yang
-                  dimanfaatkan adalah buahnya yang berbentuk polong. Faktanya,
-                  sayur ini bisa dikonsumsi secara mentah dan rasaya manis.
-                  Namun, banyak masyarakat lebih senang mengolah sayuran ini
-                  menjadi olahan masakan atau sekadar direbus untuk dijadikan
-                  lalapan. Berikut ini fakta menarik buncis.
-                </span>
+              <h1 className="ubiungu-text15">Fakta Menarik Ubi Jalar Ungu</h1>
+              <h3 className="ubiungu-text16">Menjaga kesehatan mata</h3>
+              <span className="ubiungu-text17">
+                Dikutip dari Lemonilo, Ubi Ungu memiliki kandungan pro vitamin A
+                yang terdiri atas beta karoten dan karotenoid lain. Kedua
+                kandungan pro vitamin A ini nantinya akan diubah tubuh menjadi
+                vitamin A. Vitamin A dari ubi ungu inilah yang nantinya akan
+                berguna untuk menjaga kesehatan mata.
               </span>
-              <h3 className="ubiungu-text28">Daerah asal</h3>
-              <span className="ubiungu-text29">
-                Meskipun sayuran ini sangat mudah ditemukan di Indonesia dengan
-                harga yang murah. Ternyata, buncis merupakan tanaman asli Benua
-                Amerika. Sayuran ini memiliki beberapa nama internasional,
-                seperti french beans, butter beans, snap beans, dan string
-                beans. Saat ini, penyebarannya sudah meluas hingga ke seluruh
-                negara.
-              </span>
-              <h3 className="ubiungu-text30">Jenis buncis di Indonesia</h3>
-              <span className="ubiungu-text31">
-                Meskipun sering terlihat sama, ternyata buncis yang tersebar di
-                pasaran memiliki beberapa varietas berbeda. Beberapa varietas
-                yang paling sering ditemui adalah lokal Surakarta, lokal Bandung
-                atau babud, kopak, hawaian wonder, kasender, dan haskesburny
-                wonder.
-              </span>
-              <h3 className="ubiungu-text32">Kandungan gizi</h3>
-              <span className="ubiungu-text33">
-                <span>
-                  Buncis merupakan sumber vitamin A, C, dan B kompleks yang baik
-                  bagi tubuh. Selain itu, sayuran ini juga mengandung mineral
-                  seperti Fe, K, dan P serta mengandung banyak protein. Sayur
-                  ini juga mengandung banyak serat yang sangat berguna untuk
-                  mencegah kanker usus, tekanan darah tinggi, dan konstipasi
-                  (sembelit).
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  Dengan serat tersebut, sistem pencernaan Anda menjadi lebih
-                  sehat. Dalam 100 gram buncis terdapat 35 kalori. Oleh karena
-                  itu, sayur ini sangat cocok dijadikan menu makanan bagi orang
-                  yang tengah diet.
-                </span>
-              </span>
-              <h3 className="ubiungu-text38">Cara menyimpan</h3>
-              <span className="ubiungu-text39">
-                Cara menyimpan sayuran yang benar dilakukan pada suhu rendah
-                atau pendingin di kulkas. Masukkan buncis ke plastik yang sudah
-                diberi lubang dan letakkan pada bagian crisper kulkas. Buncis
-                yang masih segar sebaiknya tidak disimpan dalam jangka waktu
-                yang lama, tidak lebih dari tiga hari. Hal tersebut dikarenakan
-                dapat menyebabkan timbulnya bercak warna hitam.
-              </span>
-              <h3 className="ubiungu-text40">
-                Cara memasak tanpa menghilangkan gizinya
+              <h3 className="ubiungu-text18">
+                Mengurangi peradangan, risiko penyakit jantung, dan tekanan
+                darah tinggi
               </h3>
-              <span className="ubiungu-text41">
-                Semakin kecil potongan polong, akan semakin banyak kandungan
-                gizi yang dapat terbuang. Oleh karena itu, air bekas rebusan
-                sebaiknya tidak dibuang, Anda bisa menggunakannya sebagai bahan
-                sup, setup, atau campuran sayur. Agar warna polong tidak berubah
-                saat ditumis, berikan garam pada air rebusan agar warna sayuran
-                tetap terlihat bagus.
+              <span className="ubiungu-text19">
+                <span>
+                  Dilansir dari Eating well, pigmen antosianin dari antioksidan
+                  tinggi yang dikandung dalam ubi ungu mampu mengurangi
+                  peradangan. Ubi ungu juga dapat membantu mengurangi risiko
+                  penyakit jantung serta kanker.
+                </span>
+                <br className="ubiungu-text21"></br>
+                <br></br>
+                <span>
+                  Sejalan dengan itu, Adelia Bovel Benjamin yang dikutip dari
+                  Lemonilo berkata bahwa perpaduan kombinasi karoten dengan
+                  antosianin sangat berperan dalam menurunkan tekanan darah.
+                </span>
+              </span>
+              <h3 className="ubiungu-text24">
+                Kandungan Ubi Ungu yang kaya gizi
+              </h3>
+              <span className="ubiungu-text25">
+                Ubi jalar ungu juga merupakan sumber vitamin dan mineral,
+                vitamin yang terkandung dalam ubi jalar antara lain Vitamin A,
+                Vitamin C, thiamin (vitamin B1) dan ribovlavin, sedangkan
+                mineral dalam ubi jalar di antaranya adalah zat besi (Fe),
+                fosfor (P) dan kalsium (Ca). Kandungan lainnya adalah protein,
+                lemak, serat kasar dan abu
               </span>
             </div>
           </div>
           <div className="ubiungu-blog-post-card1">
             <div className="ubiungu-container6">
-              <h1 className="ubiungu-text42">Panen Lainya</h1>
+              <h1 className="ubiungu-text26">Panen Lainya</h1>
               <FeatureCard
-                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
+                heading="Buncis"
+                image_src="https://img.freepik.com/free-photo/fresh-raw-green-beans_181624-6071.jpg?w=1060&amp;t=st=1678690438~exp=1678691038~hmac=8f778d5e2506a87dfce738085eb8f2c3b7399f1a4078b6fcdbb10f9715a7b80f"
+              ></FeatureCard>
+              <FeatureCard
                 heading="Cabai"
+                image_src="https://img.freepik.com/free-vector/one-red-chili-pepper-is-other_1284-47414.jpg?w=826&amp;t=st=1680362080~exp=1680362680~hmac=05c374579db7bea8820d6947a43e46e6554043eece2924c1e58742c7027c4be7"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
                 heading="Pare"
+                image_src="https://img.freepik.com/free-photo/bitter-melon_74190-4097.jpg?w=1380&amp;t=st=1680362177~exp=1680362777~hmac=5947ff184207d76c782b6441af171bf50ddabf2beeb35c1a2111fce82784519f"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
                 heading="Terong"
+                image_src="https://img.freepik.com/premium-photo/whole-eggplants-slices-white-background-isolated_269543-2421.jpg?w=1380"
               ></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
                 heading="Timun"
+                image_src="https://img.freepik.com/premium-photo/cucumber-vegetable-isolated-white-background_42033-135.jpg?w=1380"
               ></FeatureCard>
               <FeatureCard></FeatureCard>
               <FeatureCard
-                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
                 heading="Ubi Merah"
-              ></FeatureCard>
-              <FeatureCard
-                image_src="https://img.freepik.com/premium-photo/purple-sweet-potato-isolated-white-background_403166-1417.jpg?w=1380"
-                heading="Ubi Ungu"
+                image_src="https://img.freepik.com/free-photo/delicious-cooked-sweet-potato_1205-44.jpg?1&amp;w=1380&amp;t=st=1680362351~exp=1680362951~hmac=e2d34040a5a7219f0e769bc790ecfe038d07adfe91f96db8f90f637e733cf646"
               ></FeatureCard>
             </div>
             <div className="ubiungu-container7">
               <div className="ubiungu-feature-card">
                 <img
-                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   alt="image"
+                  src="https://img.freepik.com/free-photo/3d-render-courier-hands-give-carton-box-client_107791-16196.jpg?t=st=1680361058~exp=1680361658~hmac=b70d11f71b859b749ae87930b37ef46acd21bfc1284117c3f86d0523dec3353f"
                   className="ubiungu-image3"
                 />
                 <div className="ubiungu-container8">
-                  <h3 className="ubiungu-text43">
+                  <h3 className="ubiungu-text27">
                     Menyediakan kebutuhan sayur di setiap harimu
                   </h3>
                 </div>
@@ -284,7 +234,7 @@ const Ubiungu = (props) => {
           src="/playground_assets/logo-removebg-preview-200w.png"
           className="ubiungu-image4"
         />
-        <span className="ubiungu-text44">
+        <span className="ubiungu-text28">
           © 2023 KKN C-7 Sumber Makmur, All Rights Reserved.
         </span>
       </footer>

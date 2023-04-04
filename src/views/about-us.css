@@ -1,0 +1,575 @@
+.about-us-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-us-header {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  background-color: rgba(123, 194, 112, 0.27);
+}
+.about-us-navlink {
+  display: contents;
+}
+.about-us-container01 {
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+}
+.about-us-container01:hover {
+  cursor: pointer;
+}
+.about-us-image {
+  width: 49px;
+  height: 49px;
+}
+.about-us-text {
+  font-size: 1.2rem;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+}
+.about-us-nav {
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+}
+.about-us-burger-menu {
+  display: none;
+}
+.about-us-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  display: flex;
+}
+.about-us-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.about-us-nav1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.about-us-container02 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.about-us-image1 {
+  height: 2rem;
+}
+.about-us-close-mobile-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-us-icon02 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.about-us-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.about-us-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.about-us-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.about-us-hero {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  min-height: 80vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/playground_assets/countryside-6700296-1500h.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.about-us-text01 {
+  color: var(--dl-color-gray-white);
+  font-size: 1rem;
+  font-family: Montserrat;
+  text-shadow: 7px 6px 2px rgba(130,130,130,0.51);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.about-us-text02 {
+  color: rgb(255, 255, 255);
+  width: 892px;
+  font-size: 4rem;
+  max-width: 900px;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  transition: 0.3s;
+  font-family: Montserrat;
+  text-shadow: 7px 6px 2px rgba(130,130,130,0.51);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: 2px;
+}
+.about-us-text02:hover {
+  cursor: default;
+  transform: scale(1.3);
+}
+.about-us-text03:hover {
+  cursor: default;
+  transform: scale(1.3);
+}
+.about-us-banner {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  margin-top: var(--dl-space-space-sixunits);
+  align-items: center;
+  margin-bottom: var(--dl-space-space-sixunits);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.about-us-text05 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: Montserrat;
+}
+.about-us-gallery {
+  width: 100%;
+  height: 1200px;
+  display: grid;
+  grid-gap: var(--dl-space-space-unit);
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-areas: "a b b" "a b b" "a c d" "a c d"  "e e d" "e e f" "e e f";
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.about-us-container03 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  opacity: 1;
+  grid-area: a;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://www.hrw.org/sites/default/files/styles/image_gallery/public/multimedia_images_2016/2016-05-asia-indonesia-01.jpg?itok=wfXK7_QL');
+  background-position: center;
+}
+.about-us-container03:hover {
+  transform: scale(0.98);
+}
+.about-us-container04 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.about-us-text06 {
+  color: var(--dl-color-gray-white);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.about-us-text07 {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-halfunit);
+}
+.about-us-container05 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  grid-area: b;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://coconuts.co/wp-content/uploads/2017/06/2017-06-05T065206Z_1_LYNXMPED540DY_RTROPTP_4_UK-INDONESIA-AGRICULTURE-CLIMATECHANGE.jpg');
+  background-position: center;
+}
+.about-us-container05:hover {
+  transform: scale(0.98);
+}
+.about-us-container06 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.about-us-text09 {
+  color: var(--dl-color-gray-white);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.about-us-text10 {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-halfunit);
+}
+.about-us-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  grid-area: c;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://greennetwork.asia/wp-content/uploads/2021/09/pertanian-sukabumi-1024x504.jpg');
+  background-position: center;
+}
+.about-us-container07:hover {
+  transform: scale(0.98);
+}
+.about-us-container08 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.about-us-text12 {
+  color: var(--dl-color-gray-white);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.about-us-text13 {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-halfunit);
+}
+.about-us-container09 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  grid-area: d;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://img.freepik.com/free-photo/elderly-person-harvesting_181624-45055.jpg?w=1380&t=st=1679083692~exp=1679084292~hmac=6b34fc839ad053e4f797018b5ebba812e3592187d3b066b4d70919e847ebb05d');
+  background-position: center;
+}
+.about-us-container09:hover {
+  transform: scale(0.98);
+}
+.about-us-container10 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.about-us-text15 {
+  color: var(--dl-color-gray-white);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.about-us-text16 {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-halfunit);
+}
+.about-us-container11 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  grid-area: e;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://img.freepik.com/free-photo/male-farmer-who-is-using-shovel-dig-soil-his-rice-fields_1150-17239.jpg?w=1380&t=st=1679085718~exp=1679086318~hmac=75bf43a25eb653a4db50880c9e17c779e972e1e429282f22d94e0679864ef371');
+  background-position: bottom;
+}
+.about-us-container11:hover {
+  transform: scale(0.98);
+}
+.about-us-container12 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.about-us-text18 {
+  color: var(--dl-color-gray-white);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.about-us-text19 {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-halfunit);
+}
+.about-us-container13 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  grid-area: f;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://img.freepik.com/free-photo/woman-hat-holding-funnel-works-garden_1157-38529.jpg?w=1380&t=st=1679085828~exp=1679086428~hmac=b237d7f66dab5888a8aff03ff50bc77a25b7cc5bc7db8231708f605e2bb02b06');
+  background-position: center;
+}
+.about-us-container13:hover {
+  transform: scale(0.98);
+}
+.about-us-container14 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.about-us-text21 {
+  color: var(--dl-color-gray-white);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.about-us-text22 {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-halfunit);
+}
+.about-us-container15 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(123, 194, 112, 0.27);
+}
+.about-us-text24 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: Montserrat;
+}
+.about-us-gallery1 {
+  width: 100%;
+  display: grid;
+  padding: var(--dl-space-space-threeunits);
+  grid-gap: var(--dl-space-space-unit);
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.about-us-footer {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.about-us-image2 {
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.about-us-text25 {
+  align-self: center;
+}
+@media(max-width: 991px) {
+  .about-us-gallery {
+    grid-gap: var(--dl-space-space-unit);
+  }
+  .about-us-text06 {
+    text-align: center;
+  }
+  .about-us-text07 {
+    text-align: center;
+  }
+  .about-us-text09 {
+    text-align: center;
+  }
+  .about-us-text10 {
+    text-align: center;
+  }
+  .about-us-text12 {
+    text-align: center;
+  }
+  .about-us-text13 {
+    text-align: center;
+  }
+  .about-us-text15 {
+    text-align: center;
+  }
+  .about-us-text16 {
+    text-align: center;
+  }
+  .about-us-text18 {
+    text-align: center;
+  }
+  .about-us-text19 {
+    text-align: center;
+  }
+  .about-us-text21 {
+    text-align: center;
+  }
+  .about-us-text22 {
+    text-align: center;
+  }
+  .about-us-gallery1 {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media(max-width: 767px) {
+  .about-us-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-nav {
+    display: none;
+  }
+  .about-us-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .about-us-hero {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-text02 {
+    width: 695px;
+  }
+  .about-us-text03 {
+    width: 695px;
+  }
+  .about-us-banner {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-gallery {
+    height: auto;
+    display: flex;
+    padding: var(--dl-space-space-twounits);
+    flex-direction: column;
+  }
+  .about-us-gallery1 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .about-us-text25 {
+    text-align: center;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
+  }
+}
+@media(max-width: 479px) {
+  .about-us-header {
+    padding: var(--dl-space-space-unit);
+  }
+  .about-us-nav {
+    display: none;
+  }
+  .about-us-mobile-menu {
+    display: none;
+    padding: 16px;
+  }
+  .about-us-hero {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .about-us-text01 {
+    font-size: 0.8rem;
+  }
+  .about-us-text02 {
+    width: auto;
+    font-size: 3rem;
+    max-width: 900px;
+    padding-right: 0px;
+  }
+  .about-us-text03 {
+    width: auto;
+    font-size: 3rem;
+    max-width: 900px;
+    padding-right: 0px;
+  }
+  .about-us-banner {
+    margin: auto;
+    padding: auto;
+  }
+  .about-us-text05 {
+    font-size: 2rem;
+  }
+  .about-us-gallery {
+    width: 100%;
+    padding: var(--dl-space-space-unit);
+  }
+  .about-us-text24 {
+    font-size: 2rem;
+  }
+  .about-us-gallery1 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .about-us-footer {
+    padding: var(--dl-space-space-unit);
+    flex-direction: column;
+  }
+  .about-us-image2 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .about-us-text25 {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

@@ -21,6 +21,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width: 479px) {
   .feature-card13-feature-card {
     padding: var(--dl-space-space-unit);
@@ -28,7 +48,7 @@
     margin-right: 0px;
   }
   .feature-card13-image {
-    width: 30%;
+    width: 40%;
     height: auto;
   }
 }

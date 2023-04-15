@@ -377,7 +377,12 @@
     align-items: center;
     justify-content: center;
   }
+  .ubiungu-container4 {
+    flex-direction: column;
+  }
   .ubiungu-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -391,6 +396,9 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .ubiungu-blog-post-card1 {
+    width: 100%;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -436,10 +444,22 @@
     display: none;
     padding: 16px;
   }
+  .ubiungu-container4 {
+    flex-direction: column;
+  }
+  .ubiungu-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
   .ubiungu-container5 {
     padding: auto;
     margin-left: auto;
     margin-right: auto;
+  }
+  .ubiungu-blog-post-card1 {
+    width: auto;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
   }
   .ubiungu-container6 {
     padding: auto;

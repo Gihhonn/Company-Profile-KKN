@@ -415,7 +415,12 @@
     align-items: center;
     justify-content: center;
   }
+  .ubimerah-container4 {
+    flex-direction: column;
+  }
   .ubimerah-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -429,6 +434,9 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .ubimerah-blog-post-card1 {
+    width: 100%;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }

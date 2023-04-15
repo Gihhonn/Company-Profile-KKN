@@ -7,7 +7,6 @@ import NavigationLinks from '../components/navigation-links'
 import FeatureCard1 from '../components/feature-card1'
 import GalleryCard2 from '../components/gallery-card2'
 import BlogPostCard2 from '../components/blog-post-card2'
-import FeatureCard12 from '../components/feature-card12'
 import FeatureCard13 from '../components/feature-card13'
 import './landing.css'
 
@@ -283,22 +282,62 @@ const Landing = (props) => {
       <div className="landing-features1">
         <h1 className="landing-text19">Social Media</h1>
         <div className="landing-container21">
-          <FeatureCard12
-            image_src="/playground_assets/icons8-instagram-240.svg"
-            rootClassName="feature-card12-root-class-name"
-          ></FeatureCard12>
-          <FeatureCard12
-            image_src="/playground_assets/icons8-facebook-240.svg"
-            rootClassName="feature-card12-root-class-name3"
-          ></FeatureCard12>
-          <FeatureCard12
-            image_src="/playground_assets/icons8-shopee-144.svg"
-            rootClassName="feature-card12-root-class-name2"
-          ></FeatureCard12>
-          <FeatureCard12
-            image_src="/playground_assets/pngwing.com%20%5B2%5D-200h.png"
-            rootClassName="feature-card12-root-class-name1"
-          ></FeatureCard12>
+          <div className="landing-feature-card">
+            <a
+              href="https://www.instagram.com/sumbermakmur.garden/"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="landing-link1"
+            >
+              <img
+                alt="image"
+                src="/playground_assets/icons8-instagram-240.svg"
+                className="landing-image3"
+              />
+            </a>
+          </div>
+          <div className="landing-feature-card1">
+            <a
+              href="https://www.facebook.com/profile.php?id=100090434927415"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="landing-link2"
+            >
+              <img
+                alt="image"
+                src="/playground_assets/icons8-facebook-240.svg"
+                className="landing-image4"
+              />
+            </a>
+          </div>
+          <div className="landing-feature-card2">
+            <a
+              href="https://shp.ee/ru94bez"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="landing-link3"
+            >
+              <img
+                alt="image"
+                src="/playground_assets/icons8-shopee-144.svg"
+                className="landing-image5"
+              />
+            </a>
+          </div>
+          <div className="landing-feature-card3">
+            <a
+              href="https://tokopedia.link/h6mz9nGn0yb"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="landing-link4"
+            >
+              <img
+                alt="image"
+                src="/playground_assets/pngwing.com%20%5B2%5D-200h.png"
+                className="landing-image6"
+              />
+            </a>
+          </div>
         </div>
         <div className="landing-container22">
           <FeatureCard13
@@ -320,7 +359,7 @@ const Landing = (props) => {
         <img
           alt="logo"
           src="/playground_assets/logo-removebg-preview-200w.png"
-          className="landing-image3"
+          className="landing-image7"
         />
         <span className="landing-text20">
           © 2023 KKN C-7 Sumber Makmur, All Rights Reserved.

@@ -399,7 +399,12 @@
     align-items: center;
     justify-content: center;
   }
+  .cabai-container4 {
+    flex-direction: column;
+  }
   .cabai-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -413,6 +418,9 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .cabai-blog-post-card1 {
+    width: 100%;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -458,10 +466,22 @@
     display: none;
     padding: 16px;
   }
+  .cabai-container4 {
+    flex-direction: column;
+  }
+  .cabai-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
   .cabai-container5 {
     padding: auto;
     margin-left: auto;
     margin-right: auto;
+  }
+  .cabai-blog-post-card1 {
+    width: auto;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
   }
   .cabai-container6 {
     padding: auto;

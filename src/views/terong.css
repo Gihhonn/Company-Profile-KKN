@@ -403,7 +403,12 @@
     align-items: center;
     justify-content: center;
   }
+  .terong-container4 {
+    flex-direction: column;
+  }
   .terong-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -417,6 +422,9 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .terong-blog-post-card1 {
+    width: 100%;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }

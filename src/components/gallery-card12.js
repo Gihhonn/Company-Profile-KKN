@@ -14,21 +14,19 @@ const GalleryCard12 = (props) => {
       />
       <h2 className="gallery-card12-text">{props.title}</h2>
       <h4 className="gallery-card12-text1">{props.Harga}</h4>
-      <button className="gallery-card12-button button">
-        {props.detail_button}
-      </button>
+      <button className="gallery-card12-button button">More</button>
       <button className="gallery-card12-button1 button">
         {props.buy_button}
       </button>
+      <label className="gallery-card12-text2">{props.text}</label>
     </div>
   )
 }
 
 GalleryCard12.defaultProps = {
-  detail_button: 'More',
   title: 'Project Title',
   buy_button: 'Order Now',
-  Button: 'More',
+  text: 'Label',
   Harga: 'Rp 00.000,00-/Kg',
   image_alt: 'image',
   rootClassName: '',
@@ -37,10 +35,9 @@ GalleryCard12.defaultProps = {
 }
 
 GalleryCard12.propTypes = {
-  detail_button: PropTypes.string,
   title: PropTypes.string,
   buy_button: PropTypes.string,
-  Button: PropTypes.string,
+  text: PropTypes.string,
   Harga: PropTypes.string,
   image_alt: PropTypes.string,
   rootClassName: PropTypes.string,

@@ -445,7 +445,12 @@
     align-items: center;
     justify-content: center;
   }
+  .tomat-container4 {
+    flex-direction: column;
+  }
   .tomat-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -459,6 +464,9 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .tomat-blog-post-card1 {
+    width: 100%;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
     flex-direction: column;
     justify-content: space-between;
   }
@@ -504,10 +512,22 @@
     display: none;
     padding: 16px;
   }
+  .tomat-container4 {
+    flex-direction: column;
+  }
+  .tomat-blog-post-card {
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
   .tomat-container5 {
     padding: auto;
     margin-left: auto;
     margin-right: auto;
+  }
+  .tomat-blog-post-card1 {
+    width: auto;
+    margin-top: var(--dl-space-space-halfunit);
+    margin-bottom: var(--dl-space-space-halfunit);
   }
   .tomat-container6 {
     padding: auto;
